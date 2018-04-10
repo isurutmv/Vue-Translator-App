@@ -30,3 +30,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 If you want to add more language you can simply add them to do that please follow this 
 https://tech.yandex.com/translate/doc/dg/concepts/api-overview-docpage/
+
+# want to see a demo? http://isuru-udayanga.me/demo
